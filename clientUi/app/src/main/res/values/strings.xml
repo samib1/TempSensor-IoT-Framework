@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Client Ui</string>
+    <string name="set_ip_text">10.0.2.2</string>
+    <string name="set_ip_bttn">Update IP</string>
+    <string name="set_port_text">7777</string>
+    <string name="set_port_bttn">Update port</string>
+    <string name="connect_bttn">Connect</string>
+    <string name="disconnect_bttn">Disconnect</string>
+    <string name="get_temp_bttn">Get Temp</string>
+    <string name="led1_bttn">LED1</string>
+    <string name="led2_bttn">LED2</string>
+    <string name="led3_bttn">LED3</string>
+    <string name="pb1_bttn">PB1</string>
+    <string name="pb2_bttn">PB2</string>
+    <string name="pb3_bttn">PB3</string>
+    <string name="message_window">Messages display below</string>
+    <string name="clear_msgs">Clear Msg </string>
+    <string name="getTime">Get Time</string>
+</resources>
